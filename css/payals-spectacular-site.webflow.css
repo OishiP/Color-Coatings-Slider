@@ -175,7 +175,7 @@
   position: relative;
   overflow: hidden;
   width: 100%;
-  height: 665px;
+  height: auto;
   min-height: auto;
   padding-bottom: 0px;
   background-color: transparent;
